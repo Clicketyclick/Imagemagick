@@ -1,5 +1,4 @@
-# ImageMagick
-Scripts and snippets for image manipulation
+## ImageMagick scripts and snippets for image manipulation
 
 <fieldset>
   <legend><b>Warning on congruent names</b></legend>
@@ -8,7 +7,7 @@ Scripts and snippets for image manipulation
   The Windows <a href="https://en.wikipedia.org/wiki/Convert_(command)">convert</a> is used to convert volumes using the FAT file systems to NTFS. Do <i>not</i> try that!
 </fieldset>
 
-## Set path to ImageMagick
+### Set path to ImageMagick
 
 Run these commands at Windows command line or in a batch job BEFORE calling *ImageMagick*
 ```console
@@ -26,14 +25,14 @@ C:\bin\ImageMagick.portable\convert.exe
 C:\Windows\System32\convert.exe
 ```
 
-## Examples
+### Examples
 
 Original: 
 
 <img src="images/I1290a.jpg" width=200 heght=auto>
 
 
-## Creating silhuettes copy
+#### Creating silhuettes copy
 
 ```console
 SET input="I1290a.jpg"
@@ -51,7 +50,7 @@ SET CONV= -resize 1024x1024 ^
 ```
 <img src="images/I1290a.silhuette.jpg" width=200 heght=auto>
 
-## Creating lightend copy
+#### Creating lightend copy
 
 ```console
 SET input="I1290a.jpg"
