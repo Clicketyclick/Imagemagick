@@ -1,7 +1,7 @@
 # ImageMagick
 Scripts and snippets for image manipulation
 
-![source](./images/I1290a.jpg)
+![source](./images/I1290a.jpg =200x200)
 
 <fieldset>
   <legend><b>Warning on congruent names</b></legend>
