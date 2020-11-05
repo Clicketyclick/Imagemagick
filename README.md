@@ -16,7 +16,7 @@ Run these commands at Windows command line or in a batch job BEFORE calling *Ima
 SET ImageMagick=C:\bin\ImageMagick.portable\
 :: Insert path to ImageMagick BEFORE anything else in PATH!
 SET PATH=%ImageMagick%;%PATH%
-```console
+```
 
 Chech the order of call using the command: `where where`
 which will return something like:
