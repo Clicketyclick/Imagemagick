@@ -8,6 +8,8 @@ Scripts and snippets for image manipulation
   The Windows <a href="https://en.wikipedia.org/wiki/Convert_(command)">convert</a> is used to convert volumes using the FAT file systems to NTFS. Do <i>not</i> try that!
 </fieldset>
 
+
+![source](images/I1290a.jpg =200)
 ## Set path to ImageMagick
 
 Run these commands at Windows command line or in a batch job BEFORE calling *ImageMagick*
