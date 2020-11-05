@@ -10,6 +10,7 @@ Scripts and snippets for image manipulation
 
 
 ![source](images/I1290a.jpg =200)
+
 ## Set path to ImageMagick
 
 Run these commands at Windows command line or in a batch job BEFORE calling *ImageMagick*
