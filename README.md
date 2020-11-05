@@ -24,7 +24,7 @@ which will return something like:
 ```console
 C:\bin\ImageMagick.portable\convert.exe
 C:\Windows\System32\convert.exe
-```console
+```
 
 ## Creating silhuettes copy
 
