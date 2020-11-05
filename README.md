@@ -36,8 +36,8 @@ Original:
 ## Creating silhuettes copy
 
 ```console
-SET input="input1.JPG"
-SET output="output.JPG"
+SET input="I1290a.jpg"
+SET output="I1290a.silhuette.jpg"
 :: Resize copy to 1024x1024, sharpen edges, auto level+gamma, draw silhuette and set to black on white
 SET CONV= -resize 1024x1024 ^
  -sharpen 0x5 ^
@@ -54,8 +54,8 @@ SET CONV= -resize 1024x1024 ^
 ## Creating lightend copy
 
 ```console
-SET input="input1.JPG"
-SET output="output.JPG"
+SET input="I1290a.jpg"
+SET output="I1290a.light.jpg"
 :: Resize copy to 1024x1024, sharpen edges, auto level+gamma, lighten
 SET CONV= -resize 1024x1024 ^
  -sharpen 1x2 ^
