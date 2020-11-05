@@ -26,11 +26,11 @@ C:\bin\ImageMagick.portable\convert.exe
 C:\Windows\System32\convert.exe
 ```
 
-<img src="images/I1290a.jpg" width=200 heght=auto>
-
 ## Examples
 
-Original: <img src="images/I1290a.jpg" width=200 heght=auto>
+Original: 
+
+<img src="images/I1290a.jpg" width=200 heght=auto>
 
 
 ## Creating silhuettes copy
