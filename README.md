@@ -1,6 +1,8 @@
 # ImageMagick
 Scripts and snippets for image manipulation
 
+![source](./images/I1290a.jpg)
+
 <fieldset>
   <legend><b>Warning on congruent names</b></legend>
   ImageMagick has a utillity named <code>convert.exe</code> and so does Windows!
@@ -9,7 +11,7 @@ Scripts and snippets for image manipulation
 </fieldset>
 
 
-![source](images/I1290a.jpg =200)
+![source](./images/I1290a.jpg =200)
 
 ## Set path to ImageMagick
 
