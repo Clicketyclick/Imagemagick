@@ -1,7 +1,7 @@
 ## ImageMagick scripts and snippets for image manipulation
 
 <fieldset>
-  <legend><b>Warning on congruent names</b></legend>
+  <legend>&#x26A0;<b>Warning on congruent names</b></legend>
   ImageMagick has a utillity named <code>convert.exe</code> and so does Windows!
   
   The Windows <a href="https://en.wikipedia.org/wiki/Convert_(command)">convert</a> is used to convert volumes using the FAT file systems to NTFS. Do <i>not</i> try that!
